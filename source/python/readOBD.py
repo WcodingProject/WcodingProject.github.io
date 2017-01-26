@@ -49,7 +49,7 @@ while 1:
     except IOError as e:
         print(e)
 
-#sqlite> .save FILE
+#sqlite> .save FILE   ee
 
 #
 # obd.OBD            # main OBD connection class
