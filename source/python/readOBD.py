@@ -41,7 +41,7 @@ while 1:
 
         dataList = []
 
-    #    print(1/kpl)   aa
+    #    print(1/kpl)
     #    valStr = str(kpl)
     #    print(valStr + " kpl")
         time.sleep(1)
